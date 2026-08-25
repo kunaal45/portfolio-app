@@ -1,15 +1,3 @@
-com\kunaal\portfolio\model\Project.class
-com\kunaal\portfolio\repository\AchievementRepository.class
-com\kunaal\portfolio\repository\CertificateRepository.class
-com\kunaal\portfolio\controller\PortfolioApiController.class
-com\kunaal\portfolio\controller\PortfolioController.class
 com\kunaal\portfolio\PortfolioApplication.class
-com\kunaal\portfolio\model\Skill.class
 com\kunaal\portfolio\config\GlobalExceptionHandler.class
-com\kunaal\portfolio\model\Certificate.class
-com\kunaal\portfolio\model\ContactMessage.class
-com\kunaal\portfolio\repository\ContactMessageRepository.class
-com\kunaal\portfolio\repository\SkillRepository.class
-com\kunaal\portfolio\repository\ProjectRepository.class
-com\kunaal\portfolio\config\DataLoader.class
-com\kunaal\portfolio\model\Achievement.class
+com\kunaal\portfolio\controller\PortfolioController.class
