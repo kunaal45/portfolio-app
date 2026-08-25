@@ -341,6 +341,7 @@ section { padding: 110px 0 40px; }
 .hero-title .gold-gradient {
   background: linear-gradient(135deg, var(--jv), #FFD07B);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
